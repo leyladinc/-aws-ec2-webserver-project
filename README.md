@@ -39,7 +39,38 @@ The server automatically:
 
 ## Screenshots
 
-(Add screenshots here after uploading them.)
+### User Data Script
+![User Data Script](screenshots/01-userdata-script.png)
+
+### Security Group Created
+![Security Group Created](screenshots/02-security-group-created-terminal.png)
+
+### Security Group Console
+![Security Group Console](screenshots/03-security-group-console.png)
+
+### HTTP Rule
+![HTTP Rule](screenshots/04-security-group-http-rule.png)
+
+### EC2 Instance Created
+![EC2 Instance Created](screenshots/05-ec2-created-terminal.png)
+
+### Instance ID
+![Instance ID](screenshots/06-instance-id.png)
+
+### Public IP
+![Public IP](screenshots/07-public-ip-terminal.png)
+
+### Browser Not Loading
+![Browser Not Loading](screenshots/09-browser-not-loading.png)
+
+### Security Group HTTP Rule Verification
+![Security Group HTTP Rule](screenshots/09-security-group-http-rule.png)
+
+### cURL Test Success
+![cURL Test Success](screenshots/10-curl-test-success.png)
+
+### Browser Webpage
+![Browser Webpage](screenshots/11-browser-webpage.png)
 
 ---
 
